@@ -1,0 +1,105 @@
+.title{
+    padding:1px;
+    background-color:#D8D3D3;
+}
+.end{
+    height:70px;
+    background-color:#d8d3d3;
+}
+nav{
+    font-size:small;
+    float:right;
+    padding-top:10px;
+}
+#id{
+    color:white;
+}
+#first{
+    font-size:x-large;
+    color:#4ecfac;
+    font-size:20px;
+    padding-left:20px;
+}
+.container{
+    border-style:solid;
+    border-radius:7px;
+    border-width:1px;
+    border-color:#D8D3D3;
+    width:500px;
+    margin:auto;
+    margin-bottom:30px;
+}
+a{
+    text-decoration:none;
+    color:#4ecfac;
+}
+.field1{
+    margin-top:10px;
+    margin-left:20px;
+}
+.field2{
+    margin-top:10px;
+    margin-left:20px;
+}
+
+.field3{
+    margin-top:10px;
+    margin-left:20px;
+}
+
+.field4{
+    margin-top:10px;
+    margin-left:20px;
+}
+
+.field5{
+    margin-top:10px;
+    margin-left:20px;
+}
+.field6{
+    margin-top:10px;
+    margin-left:20px;
+}
+
+.field7{
+    margin-top:10px;
+    margin-left:20px;
+}
+
+.field8{
+    margin-top:10px;
+    margin-left:20px;
+    margin-bottom:10px;
+}
+select{
+    background-color:#4ECFAC;
+    color:white;
+    width:452px;
+    height:30px;
+    border:1px solid #d8d3d3;
+    border-radius: 7px;
+}
+input[type=text]{
+    height:30px;
+    border:1px solid #D8D3D3;
+    border-radius: 7px;
+}
+textarea{
+    border:1px solid #d8d3d3;
+    border-radius: 7px;
+}
+
+input[type=submit]{
+    color:#ffffff;
+    border:1px solid #4ecfac;
+    border-radius: 7px;
+    background-color:#4ecfac;
+    height:30px;
+    float:right;
+    margin-top:20px;
+    margin-right:20px;
+    font-size:20px;
+}
+.rad{
+    padding-left:200px;
+}
